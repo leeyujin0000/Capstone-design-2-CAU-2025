@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389933794947",
+    "project_id": "googe-maps-route-yivepc",
+    "storage_bucket": "googe-maps-route-yivepc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389933794947:android:1981f25e3a9b9d9653fdb6",
+        "android_client_info": {
+          "package_name": "com.appycloud.googlemapsroute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJZs5_v07pHEQbwZpEX6oQna8jIA984A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
