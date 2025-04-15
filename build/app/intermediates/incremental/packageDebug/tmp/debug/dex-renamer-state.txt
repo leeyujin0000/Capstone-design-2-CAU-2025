@@ -1,10 +1,10 @@
-#Mon Apr 14 15:55:19 KST 2025
-base.0=C\:\\Users\\hpptk\\OneDrive\\Desktop\\capstone2\\capstone_2_my_version\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\hpptk\\OneDrive\\Desktop\\capstone2\\capstone_2_my_version\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\hpptk\\OneDrive\\Desktop\\capstone2\\capstone_2_my_version\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.3=C\:\\Users\\hpptk\\OneDrive\\Desktop\\capstone2\\capstone_2_my_version\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.4=C\:\\Users\\hpptk\\OneDrive\\Desktop\\capstone2\\capstone_2_my_version\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.5=C\:\\Users\\hpptk\\OneDrive\\Desktop\\capstone2\\capstone_2_my_version\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Tue Apr 15 22:48:33 KST 2025
+base.0=C\:\\Users\\uzin\\Desktop\\Capstone2\\Capstone-design-2-CAU-2025\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\uzin\\Desktop\\Capstone2\\Capstone-design-2-CAU-2025\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\uzin\\Desktop\\Capstone2\\Capstone-design-2-CAU-2025\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=C\:\\Users\\uzin\\Desktop\\Capstone2\\Capstone-design-2-CAU-2025\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.4=C\:\\Users\\uzin\\Desktop\\Capstone2\\Capstone-design-2-CAU-2025\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.5=C\:\\Users\\uzin\\Desktop\\Capstone2\\Capstone-design-2-CAU-2025\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=0/classes.dex

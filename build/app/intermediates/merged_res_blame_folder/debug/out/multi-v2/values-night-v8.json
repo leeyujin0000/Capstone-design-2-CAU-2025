@@ -4,7 +4,7 @@
             "outputFile": "com.appycloud.googlemapsroute.app-mergeDebugResources-37:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hpptk\\.gradle\\caches\\transforms-3\\953d05e3fa95b7ff82a1fd5ab5bbc38e\\transformed\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\uzin\\.gradle\\caches\\transforms-3\\953d05e3fa95b7ff82a1fd5ab5bbc38e\\transformed\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hpptk\\OneDrive\\Desktop\\capstone2\\capstone_2_my_version\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\uzin\\Desktop\\Capstone2\\Capstone-design-2-CAU-2025\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
