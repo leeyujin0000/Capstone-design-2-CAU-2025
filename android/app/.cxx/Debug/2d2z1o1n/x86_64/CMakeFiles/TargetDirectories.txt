@@ -1,0 +1,2 @@
+C:/Users/hpptk/OneDrive/Desktop/capstone2/capstone_2_my_version/android/app/.cxx/Debug/2d2z1o1n/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/hpptk/OneDrive/Desktop/capstone2/capstone_2_my_version/android/app/.cxx/Debug/2d2z1o1n/x86_64/CMakeFiles/rebuild_cache.dir
